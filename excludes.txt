@@ -1,0 +1,36 @@
+.*
+AppData
+AppData/
+Application\ Data
+Application\ Data/
+Cookies
+Cookies/
+Evernote
+Evernote/
+Local\ Settings/
+My\ Documents/
+My\ Music/
+My\ Pictures/
+My\ Videos/
+NTUSER.DAT
+NetHood
+NetHood/
+OneDrive 
+OneDrive/
+PrintHood
+PrintHood/
+Recent
+Recent/
+Saved\ Games
+Saved\ Games/
+Searches
+Searches/
+SendTo
+SendTo/
+Start\ Menu
+Start\ Menu/
+Templates
+Templates/
+desktop.ini
+ntuser*
+vm
